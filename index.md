@@ -1,36 +1,14 @@
 ---
 layout: page
 title: Welcome :)
-tagline: blog site under construction
 ---
 {% include JB/setup %}
 
-This blog is supposed to post my personal thoughts on programming and technical stuff regularly. I hosted my blog on NetEase Blog before. However, the slow connection speed always makes me exhausted so I decided to move to Github here.
+## About Me
 
-I am a lazy man and don't be surprised if you found there are not many posts here :) I will try my best to keep blogging regularly.
+Hi, welcome to my personal blog website! I am Chunmeng from EEE in NTU. This blog host on Github is still under construction. I am learning Jekyll-Bootstrap now, which is a little bit difficult as I have no web development experience before. Hopefully I will finish the layout modification within a month and start posting.
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+## Posts
 
 <ul class="posts">
   {% for post in site.posts %}
