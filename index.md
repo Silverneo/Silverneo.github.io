@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Welcome :)
+tagline: blog site under construction
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+This blog is supposed to post my personal thoughts on programming and technical stuff regularly. I hosted my blog on NetEase Blog before. However, the slow connection speed always makes me exhausted so I decided to move to Github here.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+I am a lazy man and don't be surprised if you found there are not many posts here :) I will try my best to keep blogging regularly.
 
 ## Update Author Attributes
 
@@ -37,10 +37,5 @@ Here's a sample "posts list".
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
 
 
