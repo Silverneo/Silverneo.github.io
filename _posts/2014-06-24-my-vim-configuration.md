@@ -42,10 +42,3 @@ This line turns on the **wildmenu** option so that when you type command on the 
 {% endhighlight %}
 
 This line sets a different background color at the line 80 as according to some convention, length of each line of your code should not exceed 80 characters.  
-
-
-{% highlight Vim Script %}
-def foo
-    puts 'foo'
-end
-{% endhighlight %}
