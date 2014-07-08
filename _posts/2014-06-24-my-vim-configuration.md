@@ -13,9 +13,9 @@ I would like to put my vim configuration here, together with some tricks I learn
 
 So Here we go!
 
-###.vimrc
+####.vimrc
 
-Vim's settings are all in the .vimrc file located in your home folder. You can find my .vimrc [here](https://github.com/Silverneo/backup/blob/master/.vimrc).
+Vim's settings are all in the .vimrc file located in your home folder. You can find my .vimrc [here](https://github.com/Silverneo/dotfiles/blob/master/vimrc).
 
 I will explain some useful settings below.
 
@@ -35,10 +35,11 @@ The default vim behavior for backspace is somehow weird. You may see although yo
     set wildmenu
 {% endhighlight %}
 
-This line turns on the **wildmenu** option so that when you type command on the normal mode and press tab for autocompletion, possible matches will appear in your status bar.
+This line turns on the **wildmenu** option so that when you type command on the normal mode and press tab for autocompletion, possible matches will appear in your status bar. **Optional**
 
 {% highlight Vim Script %}
     set colorcolumn=80
 {% endhighlight %}
 
-This line sets a different background color at the line 80 as according to some convention, length of each line of your code should not exceed 80 characters.  
+This line sets a different background color at the line 80 as according to some convention, length of each line of your code should not exceed 80 characters. **Optional** 
+
