@@ -20,6 +20,12 @@ Vim's settings are all in the .vimrc file located in your home folder. You can f
 I will explain some useful settings below.
 
 {% highlight Vim Script %}
+    set nocompatible
+{% endhighlight %}
+
+Vim is an improved version of vi editor, commonly seen in unix-like system. By default vim just behaves like vi, which is less powerful. So we set this option so that we can use more powerful functions provided by vim. **Must-have**
+
+{% highlight Vim Script %}
     filetype plugin indent on
 {% endhighlight %}
 
@@ -41,5 +47,16 @@ This line turns on the **wildmenu** option so that when you type command on the 
     set colorcolumn=80
 {% endhighlight %}
 
-This line sets a different background color at the line 80 as according to some convention, length of each line of your code should not exceed 80 characters. **Optional** 
+This line sets a different background color at the line 80 as according to some convention, length of each line of your code should not exceed 80 characters. **Optional**
 
+{% highlight Vim Script %}
+    set scrolloff=8
+{% endhighlight %}
+
+When we scroll the window, there are always 8 lines below or above the cursor line.
+
+{% highlight Vim Script %}
+    set cursorline
+{% endhighlight %}
+
+This setting will highlight the current line, so that we can quickly locate the cursor.**Optional**
