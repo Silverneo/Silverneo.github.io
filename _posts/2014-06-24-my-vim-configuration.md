@@ -13,7 +13,7 @@ I would like to put my vim configuration here, together with some tricks I learn
 
 So Here we go!
 
-####.vimrc
+###.vimrc
 
 Vim's settings are all in the .vimrc file located in your home folder. You can find my .vimrc [here](https://github.com/Silverneo/dotfiles/blob/master/vimrc).
 
@@ -55,14 +55,13 @@ This line sets a different background color at the line 80 as according to some 
 
 When we scroll the window, there are always 8 lines below or above the cursor line.
 
-B
 {% highlight Vim Script %}
     set cursorline
 {% endhighlight %}
 
 This setting will highlight the current line, so that we can quickly locate the cursor.**Optional**
 
-####Plugins
+###Plugins
 Plugin is another powerful feature of vim. We can add useful plugins to enhance the functionality of our editor. Here I will introduce some plugins that I use often.
 
 To begin with, I would talk about the management of plugins in vim. We used to install plugins using vimball files, which is quite troublesome. Nowadays, most vim plugin developers host their codes on Github. So we can use some plugin management tools to simplify the installation and update of these plugins. Here I use [Vundle](https://github.com/gmarik/Vundle.vim) to manage my plugins.
