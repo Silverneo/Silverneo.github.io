@@ -23,31 +23,31 @@ I will explain some useful settings below.
     set nocompatible
 {% endhighlight %}
 
-Vim is an improved version of vi editor, commonly seen in unix-like system. By default vim just behaves like vi, which is less powerful. So we set this option so that we can use more powerful functions provided by vim. **Must-have**
+Vim is an improved version of vi editor, commonly seen in unix-like system. By default vim just behaves like vi, which is less powerful. So we set this option so that we can use more powerful functions provided by vim.
 
 {% highlight Vim Script %}
     filetype plugin indent on
 {% endhighlight %}
 
-This line sets vim to detect filetypes automatically, hence to load plugins, settings, mappings etc based on your configuration. This line is usually required by quite a lot of plugins. **Must-have**
+This line sets vim to detect filetypes automatically, hence to load plugins, settings, mappings etc based on your configuration. This line is usually required by quite a lot of plugins.
 
 {% highlight Vim Script %}
     set backspace=indent,eol,start
 {% endhighlight %}
 
-The default vim behavior for backspace is somehow weird. You may see although you delete the character it will still be there. This line sets backspace to the normal one we know. **Must-have**
+The default vim behavior for backspace is somehow weird. You may see although you delete the character it will still be there. This line sets backspace to the normal one we know.
 
 {% highlight Vim Script %}
     set wildmenu
 {% endhighlight %}
 
-This line turns on the **wildmenu** option so that when you type command on the normal mode and press tab for autocompletion, possible matches will appear in your status bar. **Optional**
+This line turns on the **wildmenu** option so that when you type command on the normal mode and press tab for autocompletion, possible matches will appear in your status bar.
 
 {% highlight Vim Script %}
     set colorcolumn=80
 {% endhighlight %}
 
-This line sets a different background color at the line 80 as according to some convention, length of each line of your code should not exceed 80 characters. **Optional**
+This line sets a different background color at the line 80 as according to some convention, length of each line of your code should not exceed 80 characters.
 
 {% highlight Vim Script %}
     set scrolloff=8
@@ -59,7 +59,7 @@ When we scroll the window, there are always 8 lines below or above the cursor li
     set cursorline
 {% endhighlight %}
 
-This setting will highlight the current line, so that we can quickly locate the cursor.**Optional**
+This setting will highlight the current line, so that we can quickly locate the cursor.
 
 ###Plugins
 Plugin is another powerful feature of vim. We can add useful plugins to enhance the functionality of our editor. Here I will introduce some plugins that I use often.
