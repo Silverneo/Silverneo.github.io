@@ -4,6 +4,8 @@ title: Welcome
 ---
 {% include JB/setup %}
 
+### Hello World!
+
 Hi, welcome to my personal blog website! I am Chunmeng from EEE in NTU. This blog host on Github is still under construction. I am learning Jekyll-Bootstrap now, which is a little bit difficult as I have no web development experience before. Hopefully I will finish the layout modification within a month and start posting.
 
 ### Posts
