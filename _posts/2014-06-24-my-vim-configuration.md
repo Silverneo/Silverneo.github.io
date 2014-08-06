@@ -67,3 +67,5 @@ Plugin is another powerful feature of vim. We can add useful plugins to enhance 
 To begin with, I would talk about the management of plugins in vim. We used to install plugins using vimball files, which is quite troublesome. Nowadays, most vim plugin developers host their codes on Github. So we can use some plugin management tools to simplify the installation and update of these plugins. Here I use [Vundle](https://github.com/gmarik/Vundle.vim) to manage my plugins.
 
 Vundle provides simple ways to install, update and uninstall plugins for vim. To use Vundle, all you need to do is to follow the instruction on the website above.
+####NerdTree
+the [NerdTree](https://github.com/scrooloose/nerdtree) could be the most commonly used plugin among vim users. It allows you to browse files and directories within vim. Just like the picture below,
