@@ -69,3 +69,4 @@ To begin with, I would talk about the management of plugins in vim. We used to i
 Vundle provides simple ways to install, update and uninstall plugins for vim. To use Vundle, all you need to do is to follow the instruction on the website above.
 ####NerdTree
 the [NerdTree](https://github.com/scrooloose/nerdtree) could be the most commonly used plugin among vim users. It allows you to browse files and directories within vim. Just like the picture below,
+![NerdTree window](/images/nerdtree.png)
