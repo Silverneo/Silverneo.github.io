@@ -14,4 +14,8 @@ The documentation website at <http://jekyllbootstrap.com>
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+Contents in folders below are created by myself, please inform me if you want to reuse anthing inside.
+    * _posts/
+    * images/
+
+All other directories and files are [MIT](http://opensource.org/licenses/MIT) licensed.
