@@ -67,6 +67,19 @@ Plugin is another powerful feature of vim. We can add useful plugins to enhance 
 To begin with, I would talk about the management of plugins in vim. We used to install plugins using vimball files, which is quite troublesome. Nowadays, most vim plugin developers host their codes on Github. So we can use some plugin management tools to simplify the installation and update of these plugins. Here I use [Vundle](https://github.com/gmarik/Vundle.vim) to manage my plugins.
 
 Vundle provides simple ways to install, update and uninstall plugins for vim. To use Vundle, all you need to do is to follow the instruction on the website above.
-####NerdTree
+
+-NerdTree
+
 the [NerdTree](https://github.com/scrooloose/nerdtree) could be the most commonly used plugin among vim users. It allows you to browse files and directories within vim. Just like the picture below,
-![NerdTree window](/images/nerdtree.png)
+
+![NerdTree window](/images/nerdtree.PNG)
+
+In my .vimrc, I set `map <F3> :NerDTreeToggle<CR>` to use <F3> to open and close the NerdTree window. You can also set the NerdTree window open when vim is started, adjust the window size etc.
+
+-vim-airline
+
+[Vim-airline](https://github.com/bling/vim-airline) is a plugin which makes the vim status line colorful and powerful. It can display different colors in different mode, integrate with other plugins like fugitive, ctrip, syntastic etc. Also, it runs fast, compared with powerline, which is a similar vim plugin. Examples of airline in different colorschemes can be found [here](https://github.com/bling/vim-airline/wiki/Screenshots).
+
+To use those handy powerline symbols (like the github branch symbol), you need do some tweaks on you system font, which is somehow a little bit troublesome. So I just use the default setting. ( another reason being those handy fonts somehow are not very nice in my cygwin console, as they are mostly better looked in GUI window)
+
+
