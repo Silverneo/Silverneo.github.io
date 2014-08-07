@@ -68,15 +68,15 @@ To begin with, I would talk about the management of plugins in vim. We used to i
 
 Vundle provides simple ways to install, update and uninstall plugins for vim. To use Vundle, all you need to do is to follow the instruction on the website above.
 
--NerdTree
+- NerdTree
 
 the [NerdTree](https://github.com/scrooloose/nerdtree) could be the most commonly used plugin among vim users. It allows you to browse files and directories within vim. Just like the picture below,
 
 ![NerdTree window](/images/nerdtree.PNG)
 
-In my .vimrc, I set `map <F3> :NerDTreeToggle<CR>` to use <F3> to open and close the NerdTree window. You can also set the NerdTree window open when vim is started, adjust the window size etc.
+In my .vimrc, I set `map <F3> :NerDTreeToggle<CR>` to use `<F3>` to open and close the NerdTree window. You can also set the NerdTree window open when vim is started, adjust the window size etc.
 
--vim-airline
+- vim-airline
 
 [Vim-airline](https://github.com/bling/vim-airline) is a plugin which makes the vim status line colorful and powerful. It can display different colors in different mode, integrate with other plugins like fugitive, ctrip, syntastic etc. Also, it runs fast, compared with powerline, which is a similar vim plugin. Examples of airline in different colorschemes can be found [here](https://github.com/bling/vim-airline/wiki/Screenshots).
 
