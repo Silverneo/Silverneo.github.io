@@ -13,15 +13,13 @@ I started constructing this blog on GitHub from June 2014. This blog post will r
 
 I still did not decide the domain name for this website, so the website analytics and the feedburner functions haved not been implemented yet. At this time I mainly focus on my About page construction.
 
-- Problem: Syntax Highligting does not function.
-
+- Problem: Syntax Highligting does not function.    
     Solution: In the blog root directory, type `pygmentize -S emacs -f html > syntax.css`, and move the syntax.css file to the `assets/theme/tom/css/` folder. Note that the pygmentize will result core dumped error, which has no influence on the produced css file.
 
-- Problem: Create a new About page and add a link on the navigation bar.
-
+- Problem: Create a new About page and add a link on the navigation bar.    
     Solution: in the blog root directory, type `rake page name="about.md"` to generate a new About page. Also adjust the default page layout setting, which is configured by the file in `_includes/themes/tom/default.html`. Although the about.md file in the root directory is a markdown file, we still set the page url as /about.html as jekyll will translate the markdown file to html directly just like the index.md file.
 
-- Problem: Headers in Tom theme do not have margins on the top and bottom.
+- Problem: Headers in Tom theme do not have margins on the top and bottom.  
     Solution: Adjust the css setting of headers in `assets/theme/tom/css/screen.css`.   
     This will set 1em margin on the top and bottom of the h1 header. So when we want to have margins, we just choose the h1 headers.
     
