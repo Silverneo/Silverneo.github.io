@@ -30,7 +30,7 @@ Also adjust the default page layout setting, which is configured by the file in 
 **Problem**: Headers in Tom theme do not have margins on the top and bottom.
 **Solution**: Adjust the css setting in `assets/theme/tom/css/screen.css
 
-{% highlight html %}
+{% highlight css %}
     h1 {
       margin-bottom: 1em;
       margin-top: 1em;
