@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome
+title: Chunmeng's Blog
 ---
 {% include JB/setup %}
 
