@@ -30,3 +30,10 @@ I still did not decide the domain name for this website, so the website analytic
     }
 {% endhighlight %}
 
+#11/08/2014
+
+Today I bought a domain name for my blog. I choose [GoDaddy](http://www.godaddy.com/) as it is the world's largest domain name registrar. After some thinking, I finally decided to buy `codingthoughts.today`, which is about 20 bucks per year. Then I followed the instructions [here](https://help.github.com/articles/tips-for-configuring-an-a-record-with-your-dns-provider) to set the A record.
+
+As setting an A record for the apex domain is not recommended, the website loading speed is a little bit slow.
+
+Finally I have my own domain name, next I can set the feedburner and the website analytics.
