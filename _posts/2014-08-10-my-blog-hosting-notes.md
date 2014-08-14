@@ -36,6 +36,6 @@ Today I bought a domain name for my blog. I choose [GoDaddy](http://www.godaddy.
 
 As setting an A record for the apex domain is not recommended, the website loading speed is a little bit slow.
 
-Later I decide to follow the [answer](http://stackoverflow.com/questions/23097397/github-pages-setting-up-custom-domain) from StackOverflow to change the DNS setting so that I can take advantage fo the CDN and DoS services provided by GitHub Pages.
+Later I decide to follow the [answer](http://stackoverflow.com/questions/23097397/github-pages-setting-up-custom-domain) from StackOverflow to change the DNS setting so that I can take advantage of the CDN and DoS services provided by GitHub Pages.
 
 Finally I have my own domain name, next I can set the feedburner and the website analytics.
