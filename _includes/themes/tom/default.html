@@ -35,7 +35,9 @@
       <div class="contact">
         <p>
           {{ site.author.name }}<br />
-          {{ site.tagline }}<br />
+          {% if site.tagline != null %}
+              {{ site.tagline }}<br />
+          {% endif %}
           <a href='mailto:{{ site.author.email }}'>{{ site.author.email }}</a>
         </p>
       </div>
