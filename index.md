@@ -16,4 +16,5 @@ Hi, welcome to my personal blog website! I am Chunmeng from EEE in NTU. This blo
   {% endfor %}
 </ul>
 
-
+### Useful Links
+- How To Ask Questions The Smart way [http://www.catb.org/esr/faqs/smart-questions.html](http://www.catb.org/esr/faqs/smart-questions.html)
