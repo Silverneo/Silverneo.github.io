@@ -17,4 +17,6 @@ Hi, welcome to my personal blog website! I am Chunmeng from EEE in NTU. This blo
 </ul>
 
 ### Useful Links
-- How To Ask Questions The Smart way [http://www.catb.org/esr/faqs/smart-questions.html](http://www.catb.org/esr/faqs/smart-questions.html)
+
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet): A cheatsheet for markdown language which I almost look up everyday!
+- [How To Ask Questions The Smart way](http://www.catb.org/esr/faqs/smart-questions.html): A guide on how to get help on the Internet.
