@@ -24,3 +24,4 @@ Hi, welcome to my personal blog website! I am Chunmeng from EEE in NTU. This blo
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet): A cheatsheet for markdown language.
 - [How To Ask Questions The Smart way](http://www.catb.org/esr/faqs/smart-questions.html): A guide on how to get help on the Internet.
 - [google-styleguide](https://code.google.com/p/google-styleguide/): Style guides for Google-originated open-source projects.
+- [ASCII Art Generator](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20): A Text ASCII Art generator.
