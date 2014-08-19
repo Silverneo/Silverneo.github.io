@@ -1,6 +1,10 @@
-# My Personal Blog
+                   __ _             __   __                    __   __     
+     ____ ___  ___/ /(_)___  ___ _ / /_ / /  ___  __ __ ___ _ / /  / /_ ___
+    / __// _ \/ _  // // _ \/ _ `// __// _ \/ _ \/ // // _ `// _ \/ __/(_-<
+    \__/ \___/\_,_//_//_//_/\_, / \__//_//_/\___/\_,_/ \_, //_//_/\__//___/
+                           /___/                      /___/                
 
-This is my [personal blog](http://Silverneo.github.io) powered by [Jekyll-Bootstrap](http://jekyllbootstrap.com)
+This is my [personal blog](http://www.codingthoughts.today) powered by [Jekyll-Bootstrap](http://jekyllbootstrap.com)
 
 The blog is still under construction. Please feel free to leave me a message if you have any suggestion :)
 
