@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Vim Configuration"
-description: ""
+description: "Introduction of the setup, plugins used for my vim editor"
 category: vim
 tags: [vim]
 ---
