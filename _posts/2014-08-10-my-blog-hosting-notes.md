@@ -39,3 +39,17 @@ As setting an A record for the apex domain is not recommended, the website loadi
 Later I decide to follow the [answer](http://stackoverflow.com/questions/23097397/github-pages-setting-up-custom-domain) from StackOverflow to change the DNS setting so that I can take advantage of the CDN and DoS services provided by GitHub Pages.
 
 Finally I have my own domain name, next I can set the feedburner and the website analytics.
+
+#11/08/2014
+
+Google Analytics and feedburner are successfully added. I also remove some useless js link on the default.html file. A detailed review on this theme should be conducted as the original Github page has not been updated for two years already. There must be a lot of aspects in terms of layout, functionality, UX etc. to improve.
+
+Everything works fine for my blog site right now. I deleted those useless website and plan to add my CV to the website. This website almost becomes a self-branding website already! Anyway I am Year 4 and finding job now:)
+
+Back to the topic, I have subscribe my blog using feedly (I am currently the first and the only subscriber). However, my site shows like the figure below in the feedly.
+
+![feedly status screenshot](/images/feedly-screenshot.jpg)
+
+So it should be a good idea to add an relevant picture at the beginning of posts so that the future subscribers can have better user experience.
+
+Btw, is there a spelling check plugin for vim? I guess there must be quite a lot of typos on my website!
