@@ -20,8 +20,11 @@ VMtools should be installed as it can enable direct copy-paste action from host 
 # Configure Fullscreen support for OS X
 
 This is the most tedious part through the whole installation. As the host machine's display resolution is 1366x768, which cannot be found in the Mac OS X dislay setting, resulting two dark areas beside the OS X screen. To solve the problem I googled a lot and some solutions are listed below.
+
 - Install [VMsvga 2](http://sourceforge.net/projects/vmsvga2/files/) and more resolution settings will appear in the drop-down box. I tried and failed, there is no change on the display setting.
 
 - Change `/Library/Preferences/SystemCOnfiguration/com.apple.boot.plist` file, which I did not try as I thought changing the configuration file is not safe and should the last option.
 
 - Follow the answer [here](http://nickology.com/2013/11/21/displaylink-mavericks-osx-10-9-resolution-display-fix/), I simply press `alt` and click the Scaled option. Then magic happens! I see more resultion settings appear Problem solved! Honestly I do not understand why it works as I am really a Mac OS X noob. If anyone knows the mechanism behind please leave a comment below.
+
+In the end, I would like to conclude that it might not be suitable to conduct ios development on virtual machine. If you really want to be an ios app developer, consider to go and buy a Mac:) I am not advertising for Apple!

@@ -7,7 +7,7 @@ tags: [GitHub, discounts]
 ---
 {% include JB/setup %}
 
-I recently received two-year micro plan from GitHub for free! I am here to share how I get the discount and spread the news to you.
+I recently received a two-year micro plan from GitHub for free! I am here to share how I get the discount and spread the news to you.
 
 I started to use GitHub this summer and I found it is really a good place to learn and practice. This semester I joined a course called Web Application Design which has a small design project. I would like to host the project on GitHub so that I can develop the project in a more productive way.
 
