@@ -159,6 +159,13 @@ ul.posts {
     border: 1px solid #ddd;
     background-color: #eef;
     padding: 0 .4em;
+    /* @silverneo inspired by Marco, css-tricks.com */
+    word-break: break-all;
+    word-wrap: break-word;
+    white-space: pre;
+    white-space: -moz-pre-wrap;
+    white-space: pre-wrap;
+    white-space: pre\9;/*IE7+*/
   }
 
   #post ul,
