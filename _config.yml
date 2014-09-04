@@ -12,6 +12,7 @@ gems:
 # so be sure to set them if your theme uses them.
 #
 title : Chunmeng's Blog
+description: "The personal blog of Chunmeng &middot; Coder & Engineer"
 tagline:
 author :
   name : Zhang Chunmeng 
