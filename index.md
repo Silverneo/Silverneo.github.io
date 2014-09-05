@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Coding Thoughts - Chunmeng's Blog
-description: Personal Website of Zhang Chunmeng
 ---
 {% include JB/setup %}
 
