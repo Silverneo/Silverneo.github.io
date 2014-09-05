@@ -3,7 +3,7 @@ layout: post
 title: "My Blog Hosting Notes"
 description: ""
 category: notes
-tags: [jekyll-Bootstrap]
+tags: [jekyll, github]
 ---
 {% include JB/setup %}
 

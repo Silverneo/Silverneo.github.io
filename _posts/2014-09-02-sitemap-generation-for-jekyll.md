@@ -3,7 +3,7 @@ layout: post
 title: "Sitemap generation for Jekyll"
 description: ""
 category: notes 
-tags: []
+tags: [sitemap, xml, jekyll]
 ---
 {% include JB/setup %}
 

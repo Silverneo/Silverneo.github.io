@@ -3,7 +3,7 @@ layout: post
 title: "GitHub educational discounts"
 description: ""
 category: others
-tags: [GitHub, discounts]
+tags: [GitHub, discounts, education]
 ---
 {% include JB/setup %}
 

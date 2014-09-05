@@ -3,7 +3,7 @@ layout: post
 title: "Install Mac OS X Mavericks 10.9 on VMware"
 description: "My experience on installing Mac OS X on VMware Workstation"
 category: notes
-tags: [OS X, VMware]
+tags: [OS X, VMware, VMtools, fullscreen]
 ---
 {% include JB/setup %}
 

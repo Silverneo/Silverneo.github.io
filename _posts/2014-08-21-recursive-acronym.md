@@ -3,7 +3,7 @@ layout: post
 title: "Recursive Acronym"
 description: ""
 category: others
-tags: []
+tags: [recursive acronym]
 ---
 {% include JB/setup %}
 

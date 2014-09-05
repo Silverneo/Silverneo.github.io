@@ -3,7 +3,7 @@ layout: post
 title: "My Vim Configuration"
 description: "Introduction of the setup, plugins used for my vim editor"
 category: vim
-tags: [vim]
+tags: [vim, vimrc, plugin]
 ---
 {% include JB/setup %}
 

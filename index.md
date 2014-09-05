@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Coding Thoughts - Chunmeng's Blog
+tags: [coding thoughts, chunmeng, chunmeng's blog]
 ---
 {% include JB/setup %}
 
