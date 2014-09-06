@@ -23,14 +23,14 @@ Usage:
   {% if categories_list.first[0] == null %}
     {% for category in categories_list %} 
     	<li><a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category }}-ref">
-    		{{ category | join: "/" }} <sup>{{ site.categories[category].size }}</sup>
-    	</a></li>
+    		{{ category | join: "/" }}</a> <sup>{{ site.categories[category].size }}</sup>
+    	</li>
     {% endfor %}
   {% else %}
     {% for category in categories_list %} 
     	<li><a href="{{ BASE_PATH }}{{ site.JB.categories_path }}#{{ category[0] }}-ref">
-    		{{ category[0] | join: "/" }} <sup>{{ category[1].size }}</sup>
-    	</a></li>
+    		{{ category[0] | join: "/" }}</a> <sup>{{ category[1].size }}</sup>
+    	</li>
     {% endfor %}
   {% endif %}
 {% endif %}
