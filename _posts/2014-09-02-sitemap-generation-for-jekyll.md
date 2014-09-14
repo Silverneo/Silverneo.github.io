@@ -48,9 +48,3 @@ I grabbed this template [here](http://davidensinger.com/2013/03/generating-a-sit
 ```
 
 Just some reminders, please make sure that you have install the jekyll-sitemap ruby package, you can check by type `gem list` in your command line. Also, if you use bundle to manage your ruby packages, please add jekyll-sitemap to you site Gemfiles also.
-
-The solution is quite simple and straightforward. If I read the GitHub help first, I would't spend time testing those solutions I searched from the Internet. This reminds me an interesting thing we were talking about before called `google-oriented programming`(funny name right? I heard it first in the social networking site said by one of my friend). As google is so powerful now, and thanks to those Q&A websites like Stack Overflow, Zhihu etc, we can be pretty sure that most problems we encounter have been asked and maybe solved in those websites. We can simply google and get the answer with copy and paste. Life is much easier now!
-
-However, it may not be the best way to make it. We cannot guarantee that those answers provided by other folks are right, or we say the best.
-
-tbc
