@@ -5,26 +5,33 @@ description: ""
 ---
 {% include JB/setup %}
 
-I am Zhang Chunmeng(张春萌), an Electrical and Electronic Engineering(EEE) student in Nanyang Technological University.
+#Zhang Chunmeng(张春萌)
 
-#Courses I have attended
+Nanyang Technological University(NTU) in Singapore
 
-- NTU
-    1. EE2073 Introduction to EEE Design and Project
-    2. EE2002 Analog Electronics
-    3. EE2004 Digital Electronics
-    4. EE2008 Data Structures and Algorithms
-    5. EE2010 Signals and Systems
-    6. HW0210 Technical Communication
-    7. CE9001 How Computers Work
-    8. CE9004 Reasoning with Objects
+#Technical topics I am interested in: 
 
-- NUS
-    1. EE2024 Programming fro Computer Interfaces
-    2. EE3204 Computer Communication Networks I
-    3. EE3331C Feedback Control Systems
-    4. EE3731C Signal Processing Methods
-    5. EG2401 Engineering Professionalism
+- Algorithms
+- Programming Languages
+- Software Engineering
+- Face Recognition
+- Audio Processing
+- Speech Enhancement/Recognition
+- Attitude Estimation/IMU Data Fusion
+- Sensors/ PID Control
+- Cyber Security
+
+Recently I am exploring:
+
+- Jekyll/Liquid
+- AutoHotKey
+
+#Hobbies:
+
+- Physics (once dreamed to become a physicist)
+- Reading (mainly Chinese online novels)
+- Electronics DIY (Raspberry Pi & Arduino)
+- Music (a [Jay Chou](http://en.wikipedia.org/wiki/Jay_Chou) fan, also love britpop)
 
 #Tech books I have read
 
