@@ -149,6 +149,7 @@ ul.posts {
       margin-top: 1.1em;
       margin-right: -.2em;
       float: right;
+      text-align: right;
     }
 
       .site .footer .rss img {
