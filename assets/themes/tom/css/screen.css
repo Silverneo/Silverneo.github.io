@@ -143,6 +143,7 @@ ul.posts {
 
       .site .footer .contact a {
         color: #8085C1;
+        text-decoration: none;
       }
 
     .site .footer .rss {
@@ -154,7 +155,7 @@ ul.posts {
 
       .site .footer .rss img {
         border: 0;
-        width: 70%;
+        width: 80%;
       }
 
 /*****************************************************************************/
