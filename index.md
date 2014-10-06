@@ -16,7 +16,7 @@ tags: [coding thoughts, chunmeng, chunmeng's blog]
 ### Useful Links
 
 - [Vim Online](http://www.vim.org/): An advanced, powerful and interesting text editor.
-- [Cygwin](https://www.cygwin.com/): An Linux-like enviroment on Windows.
+- [Cygwin](https://www.cygwin.com/): A Linux-like enviroment on Windows.
 - [酷壳-CoolShell](http://coolshell.cn/): A technical blog of 陈皓.
 - [卡饭论坛](http://bbs.kafan.cn): A Chinese Internet Security forum.
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet): A cheatsheet for markdown language.
