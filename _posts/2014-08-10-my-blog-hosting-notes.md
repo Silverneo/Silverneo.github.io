@@ -5,7 +5,6 @@ description: ""
 category: notes
 tags: [jekyll, github]
 ---
-{% include JB/setup %}
 
 I started constructing this blog on GitHub from June 2014. This blog post will record tips and tricks I learned through the whole process. I will update it regularly.
 

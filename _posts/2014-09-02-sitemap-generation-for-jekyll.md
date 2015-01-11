@@ -5,7 +5,6 @@ description: ""
 category: notes 
 tags: [sitemap, xml, jekyll]
 ---
-{% include JB/setup %}
 
 The default sitemap for this theme is simply a sitemap.txt file, which consists of urls only. To generate a xml format sitemap so that google can crawl my website better, I started to search the website with keywords like "jekyll sitemap xml". Mostly people will say we can create a sitemap.xml file on the root directory with liquid template language in by ourselves. One sample is shown below:
 

@@ -5,7 +5,6 @@ description: "My experience on installing Mac OS X on VMware Workstation"
 category: notes
 tags: [OS X, VMware, VMtools, fullscreen]
 ---
-{% include JB/setup %}
 
 This weekend I was struggling on how to install the Mac OS X Mavericks 10.9 on VMware in Windows 7 for my girlfriend. The overall process is not so difficult, you can definitely find quite a lot of guidelines on the Internet. Here I will note down some important points.
 

@@ -5,7 +5,6 @@ description: ""
 category: others
 tags: [GitHub, discounts, education]
 ---
-{% include JB/setup %}
 
 I recently received a two-year micro plan from GitHub for free! I am here to share how I get the discount and spread the news to you.
 

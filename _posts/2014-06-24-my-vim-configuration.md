@@ -5,7 +5,6 @@ description: "Introduction of the setup, plugins used for my vim editor"
 category: vim
 tags: [vim, vimrc, plugin]
 ---
-{% include JB/setup %}
 
 I have been using vim for several years. It is a fantastic editor I'd like to say. Although learning vim could be a tough time at the beginning, once you get comfortable with it, you will love it!
 

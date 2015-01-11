@@ -5,7 +5,6 @@ description: "Setting up OCaml compiler in my cygwin environment"
 category: notes 
 tags: [OCaml, cygwin, setting up]
 ---
-{% include JB/setup %}
 
 A short note on my OCaml installation steps.
 
