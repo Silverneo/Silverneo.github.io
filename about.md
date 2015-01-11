@@ -3,7 +3,6 @@ layout: page
 title: "About"
 description: ""
 ---
-{% include JB/setup %}
 
 #Zhang Chunmeng(张春萌)
 
