@@ -177,12 +177,13 @@ blockquote {
 }
 
 code {
-  font-size: 13px;
+  font-size: 14px;
   margin: 0 4px;
   padding: 4px 6px;
 }
 
 pre {
+  background: #1D1D1F;
   padding: 8px 15px;
   -webkit-border-radius: 1px;
   -moz-border-radius: 1px;
@@ -194,6 +195,9 @@ pre {
   overflow-y: hidden;
 }
 
+pre code {
+  color: #D0D0D0;
+}
 table {
   width: 100%;
   border-collapse: collapse;
