@@ -14,7 +14,7 @@ stackoverflow: "" #Add your stackoverflow url here.
 twitter: "https://twitter.com/cmzhang1991"  #Add your twitter url here.
 feedburner: "http://feeds.feedburner.com/ChunmengsBlog" #Add Feeds
 
-show_post_navs: true
+show_post_navs: false
 
 paginate: 5 #articles per page
 paginate_path: /blog/page:num #makes pagination working
