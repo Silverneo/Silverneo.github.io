@@ -22,16 +22,16 @@ from contextlib import asynccontextmanager
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-''' Run at startup
-	Initialise the Client and add it to request.state
-'''
-n_client = NotificationClient()
-yield {'n_client': n_client}
-''' Run on shutdown
-	Close the connection
-	Clear variables and release the resources
-'''
-n_client.close()
+	''' Run at startup
+		Initialise the Client and add it to request.state
+	'''
+	n_client = NotificationClient()
+	yield {'n_client': n_client}
+	''' Run on shutdown
+		Close the connection
+		Clear variables and release the resources
+	'''
+	n_client.close()
 
 
 app = FastAPI(lifespan=lifespan)
@@ -39,8 +39,8 @@ app = FastAPI(lifespan=lifespan)
 
 @app.get('/')
 async def main(request: Request):
-n_client = request.state.n_client
-# ...
+	n_client = request.state.n_client
+	# ...
 ```
 
-starlette lifespan: https://www.starlette.io/lifespan/#lifespan-state
+[starlette lifespan](https://www.starlette.io/lifespan/#lifespan-state)
